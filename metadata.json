@@ -1,6 +1,0 @@
-{
-  "name": "Flutter Mobile POS & Inventory Engine",
-  "description": "Production-grade offline-first Flutter/Dart Clean Architecture mobile Point of Sale and Inventory Management system with camera barcode scanner, SQLite sync outbox, and hardware abstractions.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
